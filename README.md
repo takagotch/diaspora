@@ -2,6 +2,8 @@
 ---
 https://github.com/diaspora/diaspora
 
+https://wiki.diasporafoundation.org/Installation/Ubuntu/Xenial
+
 ```
 gem install bundler
 script/configure_bundler
